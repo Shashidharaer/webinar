@@ -28,10 +28,10 @@ function Join() {
     <div className="home">
       <img
         className="logo"
-        src="https://www.100ms.live/assets/logo.svg"
+        src="/src/assets/credentia-logo.svg"
         alt="logo"
-        height={48}
-        width={150}
+        height={96}
+        width={300}
       />
       <h2 style={{ marginTop: "2rem" }}>Join Room</h2>
       <p>Enter your room code and name before joining</p>
