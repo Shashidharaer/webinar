@@ -28,7 +28,7 @@ function Join() {
     <div className="home">
       <img
         className="logo"
-        src="/src/assets/credentia-logo.svg"
+        src="/credentia-logo.svg"
         alt="logo"
         height={96}
         width={300}
